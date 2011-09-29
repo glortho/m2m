@@ -1,0 +1,1 @@
+﻿jQuery(function($) {$('#picker').farbtastic('#wp_slimbox_overlayColor');});

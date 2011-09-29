@@ -1,0 +1,59 @@
+.post-content h4 { font-family: Union, 'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, Sans, FreeSans, Jamrul, Garuda; font-size: 11pt; margin: 15px 0px}
+p iframe { border: 1pt #220000 solid }
+.aktt_tweets li { margin-bottom: 4px }
+.aktt_tweet_reply { color: #c0c0c0 ; font-size: 9pt !important; font-style: italic ; text-decoration: none }
+.aktt_tweet_time { color: #c0c0c0 ; font-size: 9pt !important; font-style: italic ; text-decoration: none }
+.icon {vertical-align: center }
+.icon { border:0px !important }
+.icon { padding:0px !important }
+.icon { margin:0px 3px 0px 0px !important }
+.entry p { padding-bottom: 8px }
+.post-content p { padding-bottom: 8px }
+.rating_title { margin: 3px 1px 3px 1px !important; border: 0px !important; padding: 0px !important ; width: 16px ; height: 16px }
+.rating { margin: 0px 1px 0px 1px !important; border: 0px !important; padding: 0px !important ; width: 14px ; height: 14px }
+.search-block { bottom: 1.2em }
+.tb_author, .tb_msg { font-size: 0.9em }
+.tb_photo img { border: 0px !important }
+.tb_tweet-info a { font-size: 0.8em !important }
+.textwidget { text-align: center !important }
+div.box { margin-top: 20px }
+div.navigation { margin-top: 2px; margin-bottom: 2px }
+h1.logo { font-size: 4.2em !important; letter-spacing: 0.2px !important }
+#archivelink { display: none !important }
+#disqus_thread h3 { font-family: Union,"Lucida Grande" !important ; font-size: 160% ; margin: 20px 0px !important }
+#header { z-index: 1 ; height: 160px !important }
+#main-content { padding-right: 2em; padding-top: 0.1em }
+#main-content .post h2 { padding-top: 15px }
+#nav-wrap1 { top: 140px !important }
+#page.with-sidebar .mask-main .col1 { left: 23% !important; width: 63% !important }
+#page.with-sidebar .mask-main .col2 { left: -64% !important; width: 24% !important; min-width: 265px }
+#page.with-sidebar.and-secondary .mask-main .col3 {
+	position: absolute;
+	left: 85%;
+	width: 200px;
+	top: -25px;
+	vertical-align: top;
+}
+
+.col3 .box {
+	background: transparent url(wp-content/themes/arclite/images/box-shadow.png) no-repeat -151px -23px;
+	width: 137px;
+	margin: 0px;
+	padding: 4px 4px 6px 0px;
+}
+
+.col3 .box .titlewrap {
+	background: #7DC744;
+	border: 1pt white solid;
+	height: 8px;
+}
+
+.col3 .box .titlewrap h4 {
+	background: transparent;
+}
+
+.col3 .box .the-content {
+	padding: 5px 0px 6px 0px;
+}
+
+#tweetlist li { padding-top: 3px !important }

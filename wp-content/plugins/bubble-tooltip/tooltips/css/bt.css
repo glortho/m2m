@@ -1,0 +1,20 @@
+/*CSS for Bubble Tooltips by Alessandro Fulciniti - http://pro.html.it - http://web-graphics.com */
+/*WordPress-Plugin by Frank Bueltge - http://bueltge.de */
+
+.tooltip{
+width: 200px; 
+color: #000;
+font: lighter 11px/1.3 Arial,sans-serif;
+text-decoration: none;
+text-align: center
+}
+
+.tooltip span.top{
+padding: 30px 8px 0;
+background: url(/wp-content/plugins/tooltips/bt.gif) no-repeat top}
+
+/* incl. linkcolor */
+.tooltip b.bottom{
+padding:3px 8px 15px;
+color: #556B2F;
+background: url(/wp-content/plugins/tooltips/bt.gif) no-repeat bottom}

@@ -1,0 +1,33 @@
+/* Fading Tooltips By Frank Bueltge*/
+body div#toolTip {
+	position:absolute;
+	z-index:1000;
+	min-width:150px;
+	background:#1152c8;
+	border:2px double #fff;
+	text-align:left;
+	padding:5px;
+	min-height:1em;
+	-moz-border-radius:5px;
+}
+
+body div#toolTip p {
+	margin:0;
+	padding:0;
+	color:#ccc;
+	font:11px/12px verdana,arial,sans-serif;
+	font-weight:bold;
+}
+
+body div#toolTip p em {
+	display:block;
+	margin-top:3px;
+	color:#fff;
+	font-style:normal;
+	font-weight:normal;
+}
+
+body div#toolTip p em span {
+	font-weight:bold;
+	color:#fff;
+}

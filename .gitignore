@@ -1,0 +1,4 @@
+.DS*
+wp-config.php
+wp-content/gallery
+wp-content/uploads
