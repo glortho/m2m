@@ -1,6 +1,8 @@
 (function($) {
-	var $container = $('#sidebar-secondary'),
-		o = $container.children('li'),
+	var ad_id = '#widget_sp_image-6',
+		$ad = $(ad_id).clone(),
+		$container = $('#sidebar-secondary'),
+		o = $container.children('li').not(ad_id),
 		len = o.length,
 		i = len,
 		p, t;
@@ -12,5 +14,5 @@
 		o[p] = t;
 	}
 
-	$container.empty().html( o.get() );
+	$container.empty().html( o.get() ).append($ad);
 }(jQuery));
